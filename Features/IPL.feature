@@ -7,4 +7,3 @@ Feature: NDT Games
     Then user clicks on loginbtn
     Then user clicks on remotegames dropdown
 
-  
